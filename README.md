@@ -11,5 +11,11 @@
 * scroll-animation
 * sound-board
 * split-landing-page
+* dad-jokes
+* event-keycodes
+* faq-collapse
+* incrementing-counter
+* random-choice-picker
+* animated-navigation
 
 '''
